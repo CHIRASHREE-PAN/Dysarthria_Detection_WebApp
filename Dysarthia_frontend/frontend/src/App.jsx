@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate, Link } from "react
 import axios from "axios";
 import "./App.css"; // CSS for gradients, glass cards, nav, transitions
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://render.com/docs/web-services#port-binding";
 
 // ======================== Navbar ========================
 function Navbar() {

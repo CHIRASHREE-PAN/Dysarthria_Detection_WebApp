@@ -1,0 +1,17 @@
+{
+    "model_name": "Dysarthria CNN v1.0",
+    "input_shape": [
+        200,
+        62
+    ],
+    "sampling_rate": 16000,
+    "mfcc": 20,
+    "classes": [
+        "NORMAL",
+        "DYSARTHRIC"
+    ],
+    "metrics": {
+        "final_val_accuracy": 0.949999988079071,
+        "final_val_auc": 0.9847235083580017
+    }
+}

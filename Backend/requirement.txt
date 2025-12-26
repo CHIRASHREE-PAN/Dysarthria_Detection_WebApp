@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+librosa
+soundfile
+tensorflow
+reportlab
+matplotlib
+qrcode[pil]
+pillow

@@ -1,10 +1,11 @@
 fastapi
 uvicorn
-numpy
+tensorflow-cpu
 librosa
+numpy
 soundfile
-tensorflow
+python-multipart
 reportlab
-matplotlib
-qrcode[pil]
 pillow
+matplotlib
+qrcode
